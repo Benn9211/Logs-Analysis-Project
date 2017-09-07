@@ -4,17 +4,17 @@
 
 ## You will need:
 
-1.Python3 ('https://www.python.org/downloads/')
-2.Vagrant ('https://www.vagrantup.com/downloads.html')
-VirtualBox ('https://www.virtualbox.org/')
-Setup all these
-Install Vagrant And VirtualBox
+  '1.Python3 ('https://www.python.org/downloads/')
+  2.Vagrant ('https://www.vagrantup.com/downloads.html')
+  3.VirtualBox ('https://www.virtualbox.org/')
+  Setup all these
+  Install Vagrant And VirtualBox'
 
 ## Go to GitHUb
-Clone this repository ('
-To Run
-Launch Vagrant VM by running vagrant up, you can the log in with vagrant ssh
-To load the data, use the command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.
+  "" Clone this repository ('https://github.com/Benn9211/Full-stack-Vangrant-repos')
+   To Run
+   Launch Vagrant VM by running vagrant up, you can the log in with vagrant ssh
+  To load the data, use the command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.""
 
 ## The database includes three tables:
 
