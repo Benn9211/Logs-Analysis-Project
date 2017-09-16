@@ -4,9 +4,9 @@
 
 ## You will need:
 
-  -'1.Python3 ('https://www.python.org/downloads/')
-  -2.Vagrant ('https://www.vagrantup.com/downloads.html')
-  -3.VirtualBox ('https://www.virtualbox.org/')
+  -Python3 ('https://www.python.org/downloads/')
+  -Vagrant ('https://www.vagrantup.com/downloads.html')
+  -VirtualBox ('https://www.virtualbox.org/')
   -Setup all these
   -Install Vagrant And VirtualBox'
 
