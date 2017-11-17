@@ -4,8 +4,8 @@ import psycopg2
 
 # What are the most popular three Mangas of all time?
 query_1_title = ("What are the most popular three mangas of all time?")
-query_1 = (
-    "select mangas.title, count(*) as views "
+query_1 = 
+    ("select mangas.title, count(*) as views "
     "from mangas inner join log on log.path "
     "like concat('%', articles.slug, '%') "
     "where log.status like '%200%' group by "
