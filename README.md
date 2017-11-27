@@ -8,7 +8,7 @@
   - [Vagrant](https://www.vagrantup.com/downloads.html)
   - [VirtualBox](https://www.virtualbox.org/)
   - Setup all these
-  -I nstall Vagrant And VirtualBox'
+  -I nstall Vagrant And VirtualBox
 
 ## Go to GitHUb
 * [Clone this repository](https://github.com/Benn9211/Full-stack-Vangrant-repos)
