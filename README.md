@@ -3,7 +3,6 @@
 # To Run
 
 ## You will need:
-
   - [Python3](https://www.python.org/downloads/)
   - [Vagrant](https://www.vagrantup.com/downloads.html)
   - [VirtualBox](https://www.virtualbox.org/)
